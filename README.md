@@ -1,5 +1,5 @@
 # Test Repository
 
-**_ _By Mounir Elhady based on  Osama El Zero's Course**_ _
+**By _Mounir Elhady_ based on Osama El Zero's Course**
 
 **Thank you**
